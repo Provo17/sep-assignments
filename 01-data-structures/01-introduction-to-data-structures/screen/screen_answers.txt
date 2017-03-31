@@ -1,0 +1,10 @@
+•How does your data structure allow developers to access and manipulate the data?
+•If a developer wanted to find a specific element in your data structure, how would you search for it?
+•What other real-world data can each structure represent?
+
+1. Developers can access the data by using the "at" method to retrieve the data at each pixel of the screen matrix. They can create a new pixel object with their
+desired color options and use the "insert" method to enter the pixel into the matrix.
+
+1.	By using the insert method, a developer can create a new pixel with a desired color and insert it in to the matrix using x and y coordinates. The at method allows a developer to return the coordinates of a pixel using the coordinates of the matrix object.
+2.	A loop can be created to search the matrix object for a specific pixel. The matrix object is a 2D array therefore, the loop would first need to search for the x value return it and then for the y value.
+3.	The matrix object could represent a map with specific locations, a way to plot points for graphs, or anything that could be represented using a coordinate plane.
