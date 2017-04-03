@@ -1,0 +1,7 @@
+•How does your data structure allow developers to access and manipulate the data?
+•If a developer wanted to find a specific element in your data structure, how would you search for it?
+•What other real-world data can each structure represent?
+
+1.	I used an array as my data structure. Using Ruby’s built in methods such as push and delete a developer can add and remove items from the array. Data can also be manipulated by using an items index.
+2.	The developer would use the items index.
+3.	This data structure is great for lists of items. Therefore, using it to represent things like grocery lists or a store’s physical inventory would be appropriate.   
