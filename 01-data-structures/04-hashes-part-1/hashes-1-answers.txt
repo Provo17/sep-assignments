@@ -1,0 +1,1 @@
+Doubling an underlying array to deal with collisions in a hash will change the size of the data structure at an exponential rate, which will eventually hinder performance. 
