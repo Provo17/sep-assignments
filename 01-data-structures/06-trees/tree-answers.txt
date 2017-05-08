@@ -1,0 +1,31 @@
+                                                                                                           user     system      total        real
+Binary Tree Insert                                                                                     0.890000   0.000000   0.890000 (  0.895327)
+Binary Heap Insert                                                                                     0.230000   0.000000   0.230000 (  0.229343)
+                                                                                                           user     system      total        real
+Binary tree midpoint                                                                                   0.000000   0.000000   0.000000 (  0.000032)
+Binary heap midpoint                                                                                   0.000000   0.000000   0.000000 (  0.000007)
+                                                                                                           user     system      total        real
+Binary tree delete                                                                                     0.000000   0.000000   0.000000 (  0.000009)
+Binary heap delete                                                                                     0.000000   0.000000   0.000000 (  0.000006)
+
+
+
+
+
+1.	How much time does an average insertion consume in the Binary Search Tree compared to the Heap?
+
+It takes about 3x longer to insert using a binary tree compared to a heap.
+
+2.	How much time does finding 50000 in the Binary Search Tree consume compared to the Heap?
+
+It takes nearly 5x the amount of time to search a binary tree compared to a heap.
+
+3.	How much time does the average deletion consume in a Binary Search Tree compared to the Heap?
+
+It takes approximately 2x the amount of time to delete using a binary tree as opposed to a heap.
+
+4.	When would you use a Binary Search Tree and why?
+
+5.	When would you use a Heap and why?
+
+
